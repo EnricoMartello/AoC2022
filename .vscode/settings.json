@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.dat": "gnuplot",
+		"*.tex": "latex",
+		"iostream": "cpp",
+		"ostream": "cpp",
+		"string": "cpp",
+		"istream": "cpp"
+	}
+}
