@@ -2,4 +2,4 @@
 !*.*
 !*/
 input/test.txt
-*.dSYM
+*.dSYM/
