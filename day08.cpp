@@ -4,7 +4,6 @@
 #include <fstream>
 #include <string>
 #include <sstream>
-#include <valarray>
 
 using namespace std;
 
